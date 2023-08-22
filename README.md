@@ -6,7 +6,7 @@
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
 # 💫 About Me:
-🔭 I’m currently working on full Stack Web development<br><br>🌱 I’m currently learning HTML,CSS,JavaScript<br><br>👨‍💻 All of my projects are available at https://nisarg3322.github.io<br><br>📫 How to reach me patelnisarg.3322@gmail.com
+🔭 I’m currently working on full Stack Web development<br><br>🌱 I’m currently learning Back-End Web development (node.js,express.js,MongoDB)<br><br>👨‍💻 All of my projects are available at https://nisarg3322.github.io<br><br>📫 How to reach me patelnisarg.3322@gmail.com
 
 
 ## 🌐 Socials:
